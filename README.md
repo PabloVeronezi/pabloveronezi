@@ -1,4 +1,4 @@
-## Olá, eu sou o Pablo Veronezi, seja bem vindo(a)!
+## Olá, sou o Pablo Veronezi, seja bem vindo(a)!
 
 
 - 🔭 Trabalhando com Front-End

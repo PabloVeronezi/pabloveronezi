@@ -3,7 +3,6 @@
 
 - 🔭 Trabalhando com Front-End
 - 🌱 Estou atualmente estudando Java Script e suas bibliotecas/frameworks, além de aprimorar o uso de HTML e CSS
-- ⚡ Fatos sobre mim: Pratico boxe, sou amante da gastronomia e adoro experimentar coisas novas. Amo música eletrônica e adoro programar com ela
 
 <div align="center">
   <a href="https://github.com/pabloveronezi">

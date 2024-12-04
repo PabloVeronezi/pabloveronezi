@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalhando com Front-End
-- 🌱 Estou atualmente estudando Análise e Desenvolvimento de Sistemas pela estácio, além do conteúdo acadêmico venho me especializando em Java Script e suas bibliotecas/frameworks, além de aprimorar o uso de HTML e CSS
+- 🌱 Estou atualmente estudando Front-End por meio de cursos onlines, venho me especializando em Java Script e suas bibliotecas/frameworks, além de aprimorar o uso de HTML e CSS
 
 <div align="center">
   <a href="https://github.com/pabloveronezi">
